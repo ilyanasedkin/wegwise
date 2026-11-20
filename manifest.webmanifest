@@ -1,16 +1,16 @@
 {
-  "name": "Traffic Quiz Austria",
-  "short_name": "Traffic Quiz",
-  "description": "Learn Austrian traffic rules with interactive isometric 3D scenes.",
-  "start_url": "/",
-  "scope": "/",
+  "name": "Wegwise – Theorieprüfung Klasse B",
+  "short_name": "Wegwise",
+  "description": "Practise for the Austrian Class B driving theory exam.",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F2F2F7",
   "theme_color": "#F2F2F7",
   "icons": [
-    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
